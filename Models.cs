@@ -25,7 +25,7 @@ class Dispesa{
     set{ valor = value; }
   }
 
-  public void CadastrarDispesa(  ){
+  public void CadastrarDispesa( Dispesa obj ){
     
   }
 
